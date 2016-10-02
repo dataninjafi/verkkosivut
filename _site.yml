@@ -1,0 +1,18 @@
+name: "my-website"
+navbar:
+    title: "Risto Kaartinen"
+    href: index.html
+    left:
+     - text: "About"
+       href: about.html
+    right:
+    - icon: fa-github
+      href: https://github.com/sneik-
+    - icon: fa-twitter
+      href: https://twitter.com/sneik
+    - icon: fa-envelope
+      href: mailto:risto.kaartinen@gmail.com
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
