@@ -6,11 +6,11 @@ navbar:
      - text: "About"
        href: about.html
     right:
-    - icon: fa-github
+    - icon: fa-github fa-2x
       href: https://github.com/sneik-
-    - icon: fa-twitter
+    - icon: fa-twitter fa-2x
       href: https://twitter.com/sneik
-    - icon: fa-envelope
+    - icon: fa-envelope fa-2x
       href: mailto:risto.kaartinen@gmail.com
 output:
   html_document:
