@@ -3,8 +3,10 @@ navbar:
     title: "Risto Kaartinen"
     href: index.html
     left:
-     - text: "About"
-       href: about.html
+     - text: "Analytics cheat sheet"
+       href: cheat_sheet.html
+     - text: "CV"
+       href: cv.html
     right:
     - icon: fa-github fa-2x
       href: https://github.com/sneik-
