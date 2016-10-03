@@ -1,0 +1,115 @@
+---
+title: "Cheat sheet"
+output: 
+    html_document:
+      toc: true
+      number_sections: true
+      toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a cheat sheet to various R packages, R markdown, git and AWS.
+
+Sources:
+
+* http://muuankarski.kapsi.fi/luntti/
+* http://adv-r.had.co.nz/
+* http://r4ds.had.co.nz/
+* https://blog.rstudio.org/
+* https://www.rstudio.com/resources/cheatsheets/
+
+#R Packages
+
+##Packages
+
+###Devtools
+
+###Building packages
+
+###Roxygen
+
+##Reading files
+
+##Data manipulation
+
+Tidyverse
+
+###Dplyr & tidyr
+
+* select
+- helpers
+
+* select
+
+* mutate
+
+* transmute
+
+* rename
+
+* summarise
+
+* mutate_if, select_if, summarise_if
+
+* gather, spread
+
+* complete
+
+* 
+
+###Strings
+
+####Basic stuff
+
+####Forcats
+
+####Stringr
+
+####Qdap
+
+###Loops
+
+###Dates
+
+####Lubridate
+
+##Graphics
+
+###Ggplot2
+
+###Maps
+
+###Plotly
+
+##Shiny
+
+##Scraping
+
+###Rvest
+
+https://rpubs.com/sneik-/96966
+
+#Regular expressions
+
+#Analytics
+
+##Levenstein distance
+
+##
+
+#Publishing
+
+##Knitr
+
+##R Markdown
+
+###Yaml
+
+#Git
+
+##Git commands
+
+##Github
