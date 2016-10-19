@@ -1,5 +1,6 @@
 ---
-title: "My Website"
+title: "Data ninja is coming!"
 ---
-    
-Hello world!
+
+
+![dataninja](img/noun_16846.svg)

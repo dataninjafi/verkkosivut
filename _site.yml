@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-    title: "Risto Kaartinen"
+    title: "Data ninja"
     href: index.html
     left:
      - text: "Analytics cheat sheet"
